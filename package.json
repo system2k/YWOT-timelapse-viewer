@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "electron": "*",
+        "ws": "*"
+    },
+    "main": "window.js",
+    "scripts": {
+        "start": "electron ."
+    }
+}
